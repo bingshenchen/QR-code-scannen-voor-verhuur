@@ -7,7 +7,8 @@
 4. Functionaliteit: Uitbreiding van de app-functionaliteiten om aan de groeiende behoeften van gebruikers te voldoen.
 5. IoT-integratie: Exploratie van Internet of Things (IoT) mogelijkheden voor geavanceerde itemtracking en -beheer.
 6. Reclame: Implementeren van een geïntegreerd reclamesysteem om gerelateerde diensten of producten te promoten, waardoor nieuwe inkomstenstromen worden gecreëerd. ？
-7. Enz...?
+7. Azure-service: Gebruik van Azure om een robuust en schaalbaar server- of platforminfrastructuur op te bouwen voor gegevensopslag, wat de prestaties en betrouwbaarheid van de applicatie verder kan verbeteren.
+8. Enz...?
 
 ## Algemeen effect
 Dit project demonstreert een volledig huursysteem door de combinatie van Web API en Android-applicatie. Het toont niet alleen de interactie tussen de client- en serverzijde, maar omvat ook enkele sleuteltechnologieën in moderne applicatieontwikkeling, zoals API-ontwerp, gegevensbeveiliging, en mobiele applicatieontwikkeling. Met het gebruik van QR-codes wordt de bedieningsgemak en efficiëntie voor de gebruiker aanzienlijk verbeterd, geschikt voor bibliotheken, verhuurdiensten, of elk scenario dat itembeheer en -tracking vereist.
