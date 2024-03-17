@@ -7,6 +7,7 @@
 4. Functionaliteit: Uitbreiding van de app-functionaliteiten om aan de groeiende behoeften van gebruikers te voldoen.
 5. IoT-integratie: Exploratie van Internet of Things (IoT) mogelijkheden voor geavanceerde itemtracking en -beheer.
 6. Reclame: Implementeren van een geïntegreerd reclamesysteem om gerelateerde diensten of producten te promoten, waardoor nieuwe inkomstenstromen worden gecreëerd. ？
+7. Enz...?
 
 ## Web API (C#) deel
 Gegevensbeheer: De Web API, geschreven in C#, biedt een backend service voor de Android-app om gerelateerde gegevens te beheren (bijv. informatie over huuritems).
