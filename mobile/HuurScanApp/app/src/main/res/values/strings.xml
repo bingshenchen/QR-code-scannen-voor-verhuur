@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">HuurScanApp</string>
+    <string name="Home">Home</string>
+    <string name="Info">Info</string>
+    <string name="scan_qr">"Scan QR "</string>
+    <string name="upload_photo">Upload photo\n</string>
+    <string name="enter_qr_code">Enter ID</string>
+    <string name="confirm">Confirm</string>
+    <string name="or">Or</string>
+    <string name="AddItem">Add Item</string>
+    <string name="id">"ID: "</string>
+    <string name="name">"Name: "</string>
+    <string name="rented">"Rented: "</string>
+    <string name="rentDate">"Rent Date: "</string>
+    <string name="generateQRCode">Generate QR Code</string>
+    <string name="editItem">Edit Item</string>
+    <string name="deleteItem">Delete Item</string>
+    <string name="adminPage">Admin Page</string>
+    <string name="additem">Add Item</string>
+    <string name="isRented">Is it rented? true/false</string>
+    <string name="enterName">Enter item name</string>
+    <string name="details">Details</string>
+    <string name="item_name">Item name</string>
+    <string name="itemName">Item name</string>
+    <string name="saveChanges">Save changes</string>
+    <string name="saveQRCode">Save QR Code</string>
+</resources>

@@ -1,0 +1,20 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_margin="16dp">
+
+    <ImageView
+        android:id="@+id/qrCodeImageView"
+        android:layout_width="400dp"
+        android:layout_height="400dp"
+        android:layout_gravity="center_horizontal"
+        android:contentDescription="@string/generateQRCode" />
+
+    <Button
+        android:id="@+id/btnSaveQRCode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/saveQRCode"
+        android:layout_gravity="center_horizontal" />
+</LinearLayout>

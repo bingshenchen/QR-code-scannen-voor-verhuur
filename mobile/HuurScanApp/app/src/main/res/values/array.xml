@@ -1,0 +1,7 @@
+<!-- res/values/arrays.xml -->
+<resources>
+    <string-array name="rented_options">
+        <item>false</item>
+        <item>true</item>
+    </string-array>
+</resources>

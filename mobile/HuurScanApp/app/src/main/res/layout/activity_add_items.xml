@@ -1,0 +1,27 @@
+<!-- res/layout/items_add.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/editTextItemName"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:hint="@string/enterName"
+        android:autofillHints="Name: "
+        android:inputType="text" />
+
+    <Spinner
+        android:id="@+id/spinnerIsRented"
+        android:layout_width="376dp"
+        android:layout_height="54dp"
+        android:entries="@array/rented_options" />
+
+    <Button
+        android:id="@+id/buttonSubmitItem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/additem" />
+</LinearLayout>
