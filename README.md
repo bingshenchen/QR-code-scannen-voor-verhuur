@@ -9,6 +9,9 @@
 6. Reclame: Implementeren van een geïntegreerd reclamesysteem om gerelateerde diensten of producten te promoten, waardoor nieuwe inkomstenstromen worden gecreëerd. ？
 7. Enz...?
 
+## Algemeen effect
+Dit project demonstreert een volledig huursysteem door de combinatie van Web API en Android-applicatie. Het toont niet alleen de interactie tussen de client- en serverzijde, maar omvat ook enkele sleuteltechnologieën in moderne applicatieontwikkeling, zoals API-ontwerp, gegevensbeveiliging, en mobiele applicatieontwikkeling. Met het gebruik van QR-codes wordt de bedieningsgemak en efficiëntie voor de gebruiker aanzienlijk verbeterd, geschikt voor bibliotheken, verhuurdiensten, of elk scenario dat itembeheer en -tracking vereist.
+
 ## Web API (C#) deel
 Gegevensbeheer: De Web API, geschreven in C#, biedt een backend service voor de Android-app om gerelateerde gegevens te beheren (bijv. informatie over huuritems).
 CRUD-operaties: Ondersteunt Create, Read, Update, Delete operaties, waardoor de Android-app data kan toevoegen, bekijken, wijzigen en verwijderen.
